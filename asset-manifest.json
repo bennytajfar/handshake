@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/handshake/static/css/main.0edff18d.chunk.css",
+    "main.js": "/handshake/static/js/main.6a903d2d.chunk.js",
+    "main.js.map": "/handshake/static/js/main.6a903d2d.chunk.js.map",
+    "runtime-main.js": "/handshake/static/js/runtime-main.db778b26.js",
+    "runtime-main.js.map": "/handshake/static/js/runtime-main.db778b26.js.map",
+    "static/js/2.75b2f1cb.chunk.js": "/handshake/static/js/2.75b2f1cb.chunk.js",
+    "static/js/2.75b2f1cb.chunk.js.map": "/handshake/static/js/2.75b2f1cb.chunk.js.map",
+    "index.html": "/handshake/index.html",
+    "precache-manifest.b8ad3b21c0953d15a029bc88e2e0d08f.js": "/handshake/precache-manifest.b8ad3b21c0953d15a029bc88e2e0d08f.js",
+    "service-worker.js": "/handshake/service-worker.js",
+    "static/css/main.0edff18d.chunk.css.map": "/handshake/static/css/main.0edff18d.chunk.css.map",
+    "static/js/2.75b2f1cb.chunk.js.LICENSE.txt": "/handshake/static/js/2.75b2f1cb.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/handshake/static/media/logo.2ba57304.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db778b26.js",
+    "static/js/2.75b2f1cb.chunk.js",
+    "static/css/main.0edff18d.chunk.css",
+    "static/js/main.6a903d2d.chunk.js"
+  ]
+}
